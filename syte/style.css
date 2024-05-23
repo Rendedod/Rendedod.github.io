@@ -1,0 +1,23 @@
+.button-row button {
+    display: block;
+    width: 150px; height: 100px;
+    background: #0b97f3;
+    border-radius: 20px;
+    border-color: black;
+    border-style: solid;
+    margin: 3px;
+    color: aliceblue;
+}
+
+.add-text{
+    background: #ffffff;
+    width: fit-content;
+    border-radius: 20px;
+    color: #000000;
+    padding: 10px;
+}
+
+.add-text a{
+    display: block;
+    padding: 1px;
+}
